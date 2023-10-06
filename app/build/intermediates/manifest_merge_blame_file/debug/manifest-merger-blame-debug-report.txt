@@ -1,0 +1,71 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.coletalixo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:5:5-32:19
+12        android:allowBackup="true"
+12-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] /home/escola/.gradle/caches/transforms-3/222d3d96047e18a39d15dd7f96eb4869/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:8:9-54
+18        android:icon="@drawable/botao"
+18-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:9:9-39
+19        android:label="RECLI"
+19-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:10:9-30
+20        android:supportsRtl="true"
+20-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.ColetaLixo" >
+22-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:12:9-48
+23        <activity
+23-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:14:9-16:40
+24            android:name="com.example.coletalixo.MainActivity4"
+24-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:15:13-42
+25            android:exported="false" />
+25-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:16:13-37
+26        <activity
+26-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:17:9-19:40
+27            android:name="com.example.coletalixo.MainActivity3"
+27-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:18:13-42
+28            android:exported="false" />
+28-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:19:13-37
+29        <activity
+29-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:20:9-22:40
+30            android:name="com.example.coletalixo.MainActivity2"
+30-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:21:13-42
+31            android:exported="false" />
+31-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:22:13-37
+32        <activity
+32-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:23:9-31:20
+33            android:name="com.example.coletalixo.MainActivity"
+33-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:24:13-41
+34            android:exported="true" >
+34-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:25:13-36
+35            <intent-filter>
+35-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:26:13-30:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:27:17-69
+36-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:27:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:29:17-77
+38-->/home/escola/AndroidStudioProjects/coletalixo/app/src/main/AndroidManifest.xml:29:27-74
+39            </intent-filter>
+40        </activity>
+41    </application>
+42
+43</manifest>

@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/drawable_caminhaolixo.jpeg.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/drawable/caminhaolixo.jpeg"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.coletalixo.app-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "com.example.coletalixo.app-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/layout_activity_main3.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/drawable_horareciclavel.jpg.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/drawable/horareciclavel.jpg"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/drawable_botao.png.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/drawable/botao.png"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/drawable_organico.jpg.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/drawable/organico.jpg"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/xml_backup_rules.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/drawable_reciclavel.jpg.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/drawable/reciclavel.jpg"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/layout_activity_main2.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/drawable_lixocomum.jpg.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/drawable/lixocomum.jpg"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/drawable_voltar.png.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/drawable/voltar.png"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/layout_activity_main4.xml.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/layout/activity_main4.xml"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/drawable_fundo.jpeg.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/drawable/fundo.jpeg"
+    },
+    {
+        "merged": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-merged_res-9:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/escola/.gradle/daemon/7.5/com.example.coletalixo.app-main-11:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]
